@@ -12,11 +12,14 @@
 
 
 #RUNNING THE PROGRAM
-#This project is written in python, so be sure to install the latest version of Python3 to your computer.
-#Clone this repository to download the code.
-#To run the program, ensure you install all the right libraries, including tensorflow and numpy.
-#Then type in the terminal 'python3 Final_Project.py' to run the program.
+# 1. This project is written in python, so be sure to install the latest version of Python3 to your computer.
 
-#Note: The program will take a few minutes to run all of the epochs and generate a reliable model.
+# 2. Clone this repository to download the code.
+
+# 3. To run the program, ensure you install all the right libraries, including tensorflow and numpy.
+
+# 4. Then type in the terminal 'python3 Final_Project.py' to run the program.
+
+# Note: The program will take a few minutes to run all of the epochs and generate a reliable model.
 
 #Enjoy!
